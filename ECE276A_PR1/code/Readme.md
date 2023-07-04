@@ -1,0 +1,3 @@
+Run the main.py file
+It contains all the transformation functions, quaternion transformations and the cost function used for gradient descent optiimization.
+The gradient descent algoritm runs for 20 iterations and then using the optimised quaternions trajectory, the panorama output image is built. The other plotting functions are commented in the main.oy file. Simply uncomment them to plot the euler angles
